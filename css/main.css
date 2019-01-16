@@ -1959,10 +1959,15 @@ h1, h2, h3, h4, h5, h6 {
   background-image: -webkit-linear-gradient(0deg, #62bdfc 0%, #8490ff 100%);
   background-image: -ms-linear-gradient(0deg, #62bdfc 0%, #8490ff 100%);
 } */
+/* .p1-gradient-bg, .primary-btn, .primary-btn2:hover, .default-header, .dropdown-menu, .banner-area, .myself-wrap .desc .talk-btn, .skillbar-bar, .single-feature:hover, .single-footer-widget .click-btn, .generic-banner {
+  background-image: -moz-linear-gradient(0deg, #62bdfc 0%, #a85858 100%);
+  background-image: -webkit-linear-gradient(0deg, #62bdfc 0%, #a85858 100%);
+  background-image: -ms-linear-gradient(0deg, #62bdfc 0%, #a85858 100%); 
+} */
 .p1-gradient-bg, .primary-btn, .primary-btn2:hover, .default-header, .dropdown-menu, .banner-area, .myself-wrap .desc .talk-btn, .skillbar-bar, .single-feature:hover, .single-footer-widget .click-btn, .generic-banner {
-  background-image: -moz-linear-gradient(0deg, #a5a5a5 0%, #777777 100%);
-  background-image: -webkit-linear-gradient(0deg, #a5a5a5 0%, #777777 100%);
-  background-image: -ms-linear-gradient(0deg, #a5a5a5 0%, #777777 100%);
+  background-image: -moz-linear-gradient(0deg, #51db96 0%, #55b69e 100%);
+  background-image: -webkit-linear-gradient(0deg, #51db96 0%, #55b69e 100%);
+  background-image: -ms-linear-gradient(0deg, #51db96 0%, #55b69e 100%);
 }
 
 .p1-gradient-color, .single-service a:hover, .footer-social a:hover i, .single-footer-widget .bb-btn {
